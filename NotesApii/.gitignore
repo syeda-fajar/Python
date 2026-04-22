@@ -1,13 +1,13 @@
-# Secrets - NEVER push these
+
 .env
 
-# Python junk
+
 __pycache__/
 *.pyc
 
-# Alembic junk (Local cache)
+
 alembic/__pycache__/
 
-# Environments
+
 venv/
 .venv/
